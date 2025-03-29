@@ -22,7 +22,7 @@
   "author": "Dominik Greibl",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.15.2",
+    "body-parser": "^2.0.0",
     "express": "^4.14.0",
     "lodash": "^4.16.6"
   }
